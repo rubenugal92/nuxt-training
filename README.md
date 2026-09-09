@@ -13,7 +13,6 @@ Sirve como una primera toma de contacto.
 ## Cómo arrancar la app
 
 ```bash
-cd test-nuxt
 npm install
 npm run dev
 # → http://localhost:3000
