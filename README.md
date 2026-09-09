@@ -8,3 +8,13 @@ En este caso, se sube solo el FRONT y el BFF en Nuxt. Está pensado para que lue
 
 En este proyecto se usan feats de Nuxt como el auto-import, auto-routing, SSR, BFF etc.
 Sirve como una primera toma de contacto.
+
+
+## Cómo arrancar la app
+
+```bash
+cd test-nuxt
+npm install
+npm run dev
+# → http://localhost:3000
+```
